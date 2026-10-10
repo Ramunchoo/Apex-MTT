@@ -4,12 +4,21 @@ Tracker de tournois **MTT Winamax** pour Windows : résultats, primes (Space KO,
 
 ## Télécharger
 
-1. Clique sur **[Apex_0.1.0_x64-setup.exe](Apex_0.1.0_x64-setup.exe)**.
-2. Clique sur le bouton de téléchargement (flèche vers le bas, à droite).
+<p align="center">
+  <a href="https://github.com/Ramunchoo/Apex-MTT/releases/latest/download/Apex-setup.exe">
+    <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20Apex-Windows-45d4f5?style=for-the-badge&logo=windows&logoColor=white" alt="Télécharger Apex pour Windows" height="56">
+  </a>
+</p>
+
+<p align="center">
+  Toujours la dernière version · <a href="https://github.com/Ramunchoo/Apex-MTT/releases">voir les nouveautés de chaque version</a>
+</p>
+
+Pour mettre Apex à jour : télécharge et relance l'installateur, tes données sont gardées.
 
 ## 1. Installer
 
-1. Lance `Apex_0.1.0_x64-setup.exe`.
+1. Lance `Apex-setup.exe`.
 2. Windows affiche « Windows a protégé votre ordinateur » : c'est normal, l'application n'est pas encore signée.
    - Clique sur **Informations complémentaires**.
    - Puis clique sur **Exécuter quand même**.
