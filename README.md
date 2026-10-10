@@ -14,7 +14,7 @@ Tracker de tournois **MTT Winamax** pour Windows : résultats, primes (Space KO,
   Toujours la dernière version · <a href="https://github.com/Ramunchoo/Apex-MTT/releases">voir les nouveautés de chaque version</a>
 </p>
 
-Pour mettre Apex à jour : télécharge et relance l'installateur, tes données sont gardées.
+**Mises à jour** : Apex te prévient tout seul quand une nouvelle version sort. Un bandeau apparaît en haut : clique sur **Mettre à jour maintenant**, et l'appli s'installe et redémarre. Tes données sont gardées.
 
 ## 1. Installer
 
